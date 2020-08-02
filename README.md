@@ -1,5 +1,5 @@
 <div align="center">
-<h2>Hi there <img src="https://github.com/MannyHackers/GithubProfile/blob/master/Gif/Coding.gif" width="30px">, My Name Is MannyHackers</h2>
+<h2>Hi there <img src="https://github.com/MannyHackers/GithubProfile/blob/master/Gif/Hi%20Emoji.gif" width="30px">, My Name Is MannyHackers</h2>
 
 <div align="center" width="50">
 
