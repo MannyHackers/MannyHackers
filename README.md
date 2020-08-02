@@ -15,6 +15,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MannyHackers&layout=compact)](https://github.com/MannyHackers/GithubProfile)
 
+<img src="https://github.com/MannyHackers/GithubProfile/blob/master/Gif/MannyHackers.jpg" alt="coding ?">
+
 <br><img src="https://gpvc.arturio.dev/MannyHackers" alt="Profile Views">
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MannyHackers)
