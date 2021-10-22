@@ -5,7 +5,7 @@
 
 <code>I'm a Computer Science Engineer. 😎</code>
 
-<code>I Spend My Free Time On [![telegram badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram)](https://telegram.me/MannyHackers)</a> 😇</code>
+<code>I Spend My Free Time On [![telegram badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram)](https://telegram.me/MannyHacker)</a> 😇</code>
 
 <img src="https://github.com/MannyHackers/GithubProfile/blob/master/Gif/Coding.gif" alt="coding ?">
 
